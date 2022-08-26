@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Johnpaul",
+      "title": "How to make money",
+      "blogpost": "Sell Sell Sell"
+    },
+    {
+      "author": "Mary",
+      "title": "The Mother of Jesus",
+      "blogpost": "The Mother of Jesus is the Mother of Every Child of God",
+      "id": 4
+    }
+  ]
+}
